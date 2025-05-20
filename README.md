@@ -20,7 +20,7 @@ El sistema está diseñado para:
 
 ## 🔹 1. Diagrama de Casos de Uso UML
 
-![image](img/casos_uso.png)
+![image](img/casos_de_uso.png)
 
 ### Descripción general
 Se identificaron actores clave y flujos funcionales que reflejan la lógica operativa del sistema, incorporando relaciones `<<include>>` y `<<extend>>` para detallar procesos opcionales y obligatorios.
